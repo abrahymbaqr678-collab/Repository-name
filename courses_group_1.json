@@ -108,5 +108,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "6",
+    "course_name": "ياعلس",
+    "course_image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=300&auto=format&fit=crop",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "ياعاس",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "ياعاس",
+            "page_text": "ززينسوؤن تيتؤ"
+          }
+        ]
+      }
+    ]
   }
 ]
