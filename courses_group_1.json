@@ -1,51 +1,23 @@
-[
   {
-    "course_id": "eng_3",
-    "course_name": "دورة الإنشاءات - الأستاذ ميثاق قائد",
-    "course_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=300&auto=format&fit=crop",
+    "course_id": "ashura_study",
+    "course_name": "دراسات في سند زيارة عاشوراء",
+    "course_image": "https://images.unsplash.com/photo-1590076247564-92d1f67f6502?q=80&w=300&auto=format&fit=crop",
     "episodes": [
       {
-        "episode_title": "إنشاء اليونت الأول: سيارة تسلا",
+        "episode_title": "الدرس الأول: وثاقة السند",
         "content_pages": [
-          { "page_text": "Tesla car is nice. It is Electric. It is safe. It has Airbags. It has four seats. It has CD player, GPS and Bluetooth. It has four years Warranty. Cost 100,000,000 IQD." },
-          { "page_text": "الترجمة: سيارة تسلا جميلة، كهربائية وآمنة. تحتوي على وسائد هوائية، 4 مقاعد، نظام GPS، وبلوتوث. مع ضمان 4 سنوات وتكلفة 100 مليون دينار." }
+          [span_1](start_span){ "page_text": "زيارة عاشوراء المشهورة وردت مسندة عن الإمام الباقر (عليه السلام) في كتاب كامل الزيارات[span_1](end_span). [span_2](start_span)صرح المؤلف ابن قولويه أنه لم يودع فيه إلا ما رواه الثقات[span_2](end_span)." },
+          [span_3](start_span){ "page_text": "تعددت طرق الرواية، حيث يظهر من الشيخ الطوسي في (المصباح) روايتها بطريق آخر عن الإمام الباقر (ع) أيضاً[span_3](end_span)." },
+          [span_4](start_span){ "page_text": "هناك طريق ثالث عن الإمام الصادق (ع) يثبت أنه زار بها الحسين (ع) هو وبعض أصحابه[span_4](end_span)." }
         ]
       },
       {
-        "episode_title": "إنشاء اليونت الثاني: دعوة حفلة تخرج",
+        "episode_title": "الدرس الثاني: فصاحة المضمون والثواب",
         "content_pages": [
-          { "page_text": "From: Ahmed, To: Ali. Hi Ali, I've two tickets for the graduation Party on Sunday. The Party will be Nice at 9:00 a.m. in Amal hall. You must Come. Tell me if you can't come." },
-          { "page_text": "الترجمة: مرحبا علي، لدي تذكرتان لحفلة التخرج يوم الأحد. الحفلة ستكون في الساعة 9 صباحاً في قاعة الأمل. يجب أن تحضر." }
-        ]
-      },
-      {
-        "episode_title": "إنشاء اليونت الثالث: الحياة البرية في الأهوار",
-        "content_pages": [
-          { "page_text": "Arab Marshes live in the south of Iraq in arched houses. They grow Rice and raised sheep. Millions of birds like flamingos are in the marshes. In 1990s wildlife were At Risk." },
-          { "page_text": "الترجمة: تعيش عرب الأهوار في جنوب العراق في بيوت مقوسة، يزرعون الأرز ويربون الأغنام. الملايين من الطيور تعيش هناك." }
-        ]
-      },
-      {
-        "episode_title": "إنشاء اليونت الخامس: برنامج تلفزيوني",
-        "content_pages": [
-          { "page_text": "I watched a TV programme yesterday about a thirsty elephant by a pool. One elephant blew water into the air and the tourists got wet. I laughed." },
-          { "page_text": "الترجمة: شاهدت برنامجاً مضحكاً عن فيل عطشان نفخ الماء على السياح فتبللوا وضحكت كثيراً." }
-        ]
-      },
-      {
-        "episode_title": "إنشاء اليونت السادس: مهنة معلم",
-        "content_pages": [
-          { "page_text": "Ali is an English teacher. He teaches at Amal school. He has been teaching for ten years. He loves working with students and listening to English songs." },
-          { "page_text": "الترجمة: علي معلم لغة إنجليزية يدرس في مدرسة الأمل منذ عشر سنوات ويحب العمل مع الطلاب." }
-        ]
-      },
-      {
-        "episode_title": "إنشاء اليونت السابع: عن العراق",
-        "content_pages": [
-          { "page_text": "Iraq is a big country in Asia. It has 45 million people. Iraqi people speak Arabic. It is hot. Iraq exports oil and imports cars." },
-          { "page_text": "الترجمة: العراق بلد كبير في آسيا، شعبه يتحدث العربية، يصدر النفط ويستورد السيارات." }
+          [span_5](start_span){ "page_text": "الزيارة على درجة عالية من الفصاحة والبلاغة بنحو يناسب ما ورد عن أهل البيت (عليهم السلام)[span_5](end_span)." },
+          [span_6](start_span){ "page_text": "مضامين الزيارة من الموالاة والبراءة ثابتة بنصوص كثيرة متواترة وقامت عليها أدلة قطعية[span_6](end_span)." },
+          [span_7](start_span){ "page_text": "يكفي في ترتب الثواب قاعدة (من بلغه ثواب على عمل فأتى به أُوتي ذلك الثواب) المروية عن الإمام الصادق (ع)[span_7](end_span)." }
         ]
       }
     ]
   }
-]
