@@ -150,5 +150,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "8",
+    "course_name": "الاسرة الصالحة ",
+    "course_image": "https://via.placeholder.com/300",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "ياعلي",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "ياعلي",
+            "page_text": "ميمو نييترترترؤترتتيتيتيتيتيت"
+          }
+        ]
+      }
+    ]
   }
 ]
