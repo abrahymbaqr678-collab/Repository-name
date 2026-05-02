@@ -62,5 +62,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "2",
+    "course_name": "mhde",
+    "course_image": "https://via.placeholder.com/300",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "j",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "j",
+            "page_text": "bbs"
+          }
+        ]
+      }
+    ]
   }
 ]
