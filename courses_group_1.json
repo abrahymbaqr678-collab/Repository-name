@@ -163,5 +163,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "3",
+    "course_name": "ياعلييظبخوؤنية",
+    "course_image": "https://via.placeholder.com/300",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "زبيةؤتي",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "زبيةؤتي",
+            "page_text": "تؤنيويوي"
+          }
+        ]
+      }
+    ]
   }
 ]
