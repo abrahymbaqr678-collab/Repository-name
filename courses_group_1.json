@@ -66,5 +66,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "4",
+    "course_name": "ياعلي ",
+    "course_image": "https://pin.it/23hK0RYuQ",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "ياعباس ",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "ياعباس ",
+            "page_text": "ننو توو تويو ؤتيوؤ ؤتؤوؤ ءتسوء ؤتؤوسوء ؤت ءوءوؤوؤتؤ ءتءوتء ؤتيةؤتؤ ؤتؤوؤوؤت"
+          }
+        ]
+      }
+    ]
   }
 ]
