@@ -1,3 +1,39 @@
+[
+  {
+    "course_id": "eng_3",
+    "course_name": "دورة الإنشاءات - الأستاذ ميثاق قائد",
+    "course_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=300&auto=format&fit=crop",
+    "episodes": [
+      {
+        "episode_title": "إنشاء اليونت الأول: سيارة تسلا",
+        "content_pages": [
+          [span_0](start_span){ "page_text": "Tesla car is nice. It is Electric. It is safe. It has Airbags. It has four seats. It has CD player, GPS and Bluetooth. It has four years Warranty. Cost 100,000,000 IQD."[span_0](end_span) },
+          [span_1](start_span){ "page_text": "الترجمة: سيارة تسلا جميلة، كهربائية وآمنة. تحتوي على وسائد هوائية، 4 مقاعد، نظام GPS، وبلوتوث. مع ضمان 4 سنوات وتكلفة 100 مليون دينار."[span_1](end_span) }
+        ]
+      },
+      {
+        "episode_title": "إنشاء اليونت الثاني: دعوة حفلة تخرج",
+        "content_pages": [
+          [span_2](start_span){ "page_text": "From: Ahmed, To: Ali. Hi Ali, I've two tickets for the graduation Party on Sunday. The Party will be Nice at 9:00 a.m. in Amal hall."[span_2](end_span) },
+          [span_3](start_span){ "page_text": "الترجمة: مرحبا علي، لدي تذكرتان لحفلة التخرج يوم الأحد. الحفلة ستكون في الساعة 9 صباحاً في قاعة الأمل."[span_3](end_span) }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "zaynab_study",
+    "course_name": "السيدة زينب (ع) والرسالة الإلهية",
+    "course_image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?q=80&w=300&auto=format&fit=crop",
+    "episodes": [
+      {
+        "episode_title": "الدرس الأول: اليقين والرسالة",
+        "content_pages": [
+          [span_4](start_span){ "page_text": "كانت السيدة زينب (عليها السلام) على يقين من استمرار تلك الرسالة الحقة، وليست أياماً معدودة وتنتهي القضية."[span_4](end_span) },
+          [span_5](start_span)[span_6](start_span){ "page_text": "الرسالة الإلهية ليست كرسالة البشر، فالحقيقة متمثلة بانتصار الحق بدم الحسين (ع) ومسيرة السيدة زينب."[span_5](end_span)[span_6](end_span) }
+        ]
+      }
+    ]
+  },
   {
     "course_id": "ashura_study",
     "course_name": "دراسات في سند زيارة عاشوراء",
@@ -6,18 +42,10 @@
       {
         "episode_title": "الدرس الأول: وثاقة السند",
         "content_pages": [
-          [span_1](start_span){ "page_text": "زيارة عاشوراء المشهورة وردت مسندة عن الإمام الباقر (عليه السلام) في كتاب كامل الزيارات[span_1](end_span). [span_2](start_span)صرح المؤلف ابن قولويه أنه لم يودع فيه إلا ما رواه الثقات[span_2](end_span)." },
-          [span_3](start_span){ "page_text": "تعددت طرق الرواية، حيث يظهر من الشيخ الطوسي في (المصباح) روايتها بطريق آخر عن الإمام الباقر (ع) أيضاً[span_3](end_span)." },
-          [span_4](start_span){ "page_text": "هناك طريق ثالث عن الإمام الصادق (ع) يثبت أنه زار بها الحسين (ع) هو وبعض أصحابه[span_4](end_span)." }
-        ]
-      },
-      {
-        "episode_title": "الدرس الثاني: فصاحة المضمون والثواب",
-        "content_pages": [
-          [span_5](start_span){ "page_text": "الزيارة على درجة عالية من الفصاحة والبلاغة بنحو يناسب ما ورد عن أهل البيت (عليهم السلام)[span_5](end_span)." },
-          [span_6](start_span){ "page_text": "مضامين الزيارة من الموالاة والبراءة ثابتة بنصوص كثيرة متواترة وقامت عليها أدلة قطعية[span_6](end_span)." },
-          [span_7](start_span){ "page_text": "يكفي في ترتب الثواب قاعدة (من بلغه ثواب على عمل فأتى به أُوتي ذلك الثواب) المروية عن الإمام الصادق (ع)[span_7](end_span)." }
+          [span_7](start_span){ "page_text": "زيارة عاشوراء المشهورة وردت مسندة عن الإمام الباقر (عليه السلام) في كتاب كامل الزيارات."[span_7](end_span) },
+          [span_8](start_span){ "page_text": "تعددت طرق الرواية، حيث يظهر من الشيخ الطوسي في (المصباح) روايتها بطريق آخر عن الإمام الباقر (ع) أيضاً."[span_8](end_span) }
         ]
       }
     ]
   }
+]
