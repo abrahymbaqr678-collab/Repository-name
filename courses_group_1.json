@@ -129,5 +129,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "7",
+    "course_name": "ياحسين",
+    "course_image": "https://via.placeholder.com/300",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "600",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "600",
+            "page_text": "68×5"
+          }
+        ]
+      }
+    ]
   }
 ]
