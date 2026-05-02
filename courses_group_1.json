@@ -1,0 +1,28 @@
+[
+  {
+    "course_id": "1",
+    "course_name": "دورة أحكام التلاوة",
+    "course_image": "https://img.freepik.com/free-vector/islamic-concept-illustration_114360-1002.jpg",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "مقدمة في أحكام التجويد",
+        "duration": "4 دقائق",
+        "pages_count": 2,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "تعريف التجويد",
+            "page_text": "التجويد في اللغة هو التحسين، وفي الاصطلاح هو إعطاء كل حرف حقه ومستحقه..."
+          },
+          {
+            "page_number": 2,
+            "page_title": "أهمية التجويد",
+            "page_text": "تكمن أهمية التجويد في صون اللسان عن الخطأ في كتاب الله تعالى..."
+          }
+        ]
+      }
+    ]
+  }
+]
