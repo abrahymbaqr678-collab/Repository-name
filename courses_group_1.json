@@ -66,6 +66,45 @@
     "course_image": "https://via.placeholder.com/150",
     "course_description": "باقر ابراهيم ",
     "total_episodes": 0,
-    "episodes": []
+    "episodes": [
+      {
+        "episode_id": "ep1777809512640",
+        "episode_title": "ياعلي",
+        "duration": "20",
+        "pages_count": 0,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "ياعلي",
+            "page_text": "مبارهؤةرنر"
+          },
+          {
+            "page_number": 2,
+            "page_title": "",
+            "page_text": "يمروؤنةرو"
+          },
+          {
+            "page_number": 3,
+            "page_title": "عنوان جديد",
+            "page_text": "محتوى جديدؤينيزيزؤرورو"
+          },
+          {
+            "page_number": 4,
+            "page_title": "عنوان جديد",
+            "page_text": "محتوى جديدزرترتيرتبور"
+          },
+          {
+            "page_number": 5,
+            "page_title": "عنوان جديد",
+            "page_text": "محتوى جرتترةيترترتررننيديد"
+          },
+          {
+            "page_number": 6,
+            "page_title": "عنوان جديد",
+            "page_text": "محتونرتيرتيترترى جديد"
+          }
+        ]
+      }
+    ]
   }
 ]
