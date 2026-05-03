@@ -100,6 +100,14 @@
     "course_image": "https://via.placeholder.com/150",
     "course_description": "دورة اسم علي",
     "total_episodes": 0,
-    "episodes": []
+    "episodes": [
+      {
+        "episode_id": "ep1777806725167",
+        "episode_title": "ياعلي",
+        "duration": "643773467",
+        "pages_count": 0,
+        "content_pages": []
+      }
+    ]
   }
 ]
