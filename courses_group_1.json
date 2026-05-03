@@ -85,5 +85,13 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "1777806696102",
+    "course_name": "ياعلي baq",
+    "course_image": "https://via.placeholder.com/150",
+    "course_description": "دورة اسم علي",
+    "total_episodes": 0,
+    "episodes": []
   }
 ]
