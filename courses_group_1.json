@@ -3,6 +3,7 @@
     "course_id": "1",
     "course_name": "أوليات الإسلام",
     "course_image": "https://i.ibb.co/vY6pY8N/al-mudarrisi-book.jpg",
+    "course_description": "دورة تعليمية شاملة تتناول مفاهيم الإسلام الأساسية من عالم الذر وحتى القيامة، مستخلصة من مؤلفات آية الله هادي المدرسي.",
     "total_episodes": "2",
     "episodes": [
       {
@@ -67,6 +68,7 @@
     "course_id": "2",
     "course_name": "ياعلي",
     "course_image": "https://i.supaimg.com/9d1af304-5584-4369-81d9-bb01f7e4ba68/ea2c164f-2201-497f-a246-90b857914164.jpg",
+    "course_description": "محتوى ولائي خاص بفضائل وأقوال الإمام علي عليه السلام.",
     "total_episodes": 1,
     "episodes": [
       {
@@ -77,17 +79,10 @@
         "content_pages": [
           {
             "page_number": 1,
-            "page_title": "باقر",
+            "page_title": "حين",
             "page_text": "ياعلي ياعلي"
           }
         ]
-      },
-      {
-        "episode_id": "ep1777806436512",
-        "episode_title": "ياعلي",
-        "duration": "20",
-        "pages_count": 0,
-        "content_pages": []
       }
     ]
   }
