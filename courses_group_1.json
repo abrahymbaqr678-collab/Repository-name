@@ -109,5 +109,13 @@
         "content_pages": []
       }
     ]
+  },
+  {
+    "course_id": "1777809165645",
+    "course_name": "ياعباس",
+    "course_image": "https://via.placeholder.com/150",
+    "course_description": "ميهؤاؤ",
+    "total_episodes": 0,
+    "episodes": []
   }
 ]
