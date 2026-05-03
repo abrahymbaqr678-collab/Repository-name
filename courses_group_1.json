@@ -62,5 +62,26 @@
         ]
       }
     ]
+  },
+  {
+    "course_id": "2",
+    "course_name": "ياعلي",
+    "course_image": "https://i.supaimg.com/9d1af304-5584-4369-81d9-bb01f7e4ba68/ea2c164f-2201-497f-a246-90b857914164.jpg",
+    "total_episodes": 1,
+    "episodes": [
+      {
+        "episode_id": "ep1",
+        "episode_title": "حين",
+        "duration": "غير محدد",
+        "pages_count": 1,
+        "content_pages": [
+          {
+            "page_number": 1,
+            "page_title": "حين",
+            "page_text": "ياعلي ياعلي"
+          }
+        ]
+      }
+    ]
   }
 ]
