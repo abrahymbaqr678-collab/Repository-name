@@ -59,5 +59,13 @@
     "course_description": "ميهؤاؤ",
     "total_episodes": 0,
     "episodes": []
+  },
+  {
+    "course_id": "1777809406166",
+    "course_name": "باقر",
+    "course_image": "https://via.placeholder.com/150",
+    "course_description": "باقر ابراهيم ",
+    "total_episodes": 0,
+    "episodes": []
   }
 ]
