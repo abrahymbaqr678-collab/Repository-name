@@ -5,7 +5,7 @@
 
 // قائمة الروابط (تم الاقتصار على الرابط الذي زودتني به)
 const data_sources = [
-  "https://raw.githubusercontent.com/abrahymbaqr678-collab/Repository-name/main/data_part1.js"
+  "https://raw.githubusercontent.com/abrahymbaqr678-collab/Repository-name/refs/heads/main/data_part1.js"
 ];
 
 /**
